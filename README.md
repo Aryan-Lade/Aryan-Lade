@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Aryan-Lade](https://github.com/Aryan-Lade)
 
-- 📝 I regularly write articles on [www.linkedin.com/in/aryan-lade](www.linkedin.com/in/aryan-lade)
+- 📝 I regularly write articles on [www.linkedin.com/in/aryan-lade](https://www.linkedin.com/in/aryan-lade/)
 
 - 📫 How to reach me **aryanlade55@gmail.com**
 
