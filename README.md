@@ -1,7 +1,8 @@
+<h1 align="center">Hi 👋, I'm Aryan Lade</h1>
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY+GITHUB!_;CODING+IS+MAGIC!+.+.+.">
 </h1>
-<h1 align="center">Hi 👋, I'm Aryan Lade</h1>
+
 <h3 align="center">A passionate Software Engineer from Ramdeobaba University Nagpur</h3>
 
 <img align="right" alt="Coding" width="380" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
