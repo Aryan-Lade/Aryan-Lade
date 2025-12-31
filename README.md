@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate Software Engineer from Ramdeobaba University Nagpur</h3>
 
-<img align="right" alt="Coding" width="380" src="![Uploading tumblr_miw2vk796q1qzqnxxo1_r1_500.gif…]()">
+<img align="right" alt="Coding" width="380" src="[![Uploading tumblr_miw2vk796q1qzqnxxo1_r1_500.gif…]()](https://i.pinimg.com/originals/69/d2/8c/69d28cb69a870c8ebee0149f7d9fd7a5.gif)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-lade&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-lade" /> </p>
 
