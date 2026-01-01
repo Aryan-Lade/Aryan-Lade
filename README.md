@@ -5,7 +5,7 @@
 
 <h3 align="center">A passionate Software Engineer from Ramdeobaba University Nagpur</h3>
 
-<img align="right" alt="Coding" width="380" src="https://raw.githubusercontent.com/Aryan-Lade/Aryan-Lade/main/Githubzzz.gif">
+<img align="right" alt="Coding" width="450" src="https://raw.githubusercontent.com/Aryan-Lade/Aryan-Lade/main/Githubzzz.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-lade&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-lade" /> </p>
 
