@@ -1,9 +1,10 @@
 <h1 align="center">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&letterSpacing=0&duration=4200&pause=500&width=435&lines=Hi%2C+I'm+Aryan;Welcome+to+my+GitHub+profile!;Exploring+new+technologies!;Passionate+about+coding!;Let's+code+together!"
-      alt="Typing SVG"
-    />
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&letterSpacing=0&duration=4200&pause=500&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aryan;Welcome+to+my+GitHub+profile!;Exploring+new+technologies!;Passionate+about+coding!;Let's+code+together!"
+    alt="Typing SVG"
+  />
 </h1>
+
 
 <h1 align="center">Hi 👋, I'm Aryan Lade</h1>
 <h3 align="center">A passionate Software Engineer from Ramdeobaba University Nagpur</h3>
