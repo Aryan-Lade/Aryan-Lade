@@ -1,10 +1,8 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
     <img
       src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&letterSpacing=0&duration=4200&pause=500&width=435&lines=Hi%2C+I'm+Aryan;Welcome+to+my+GitHub+profile!;Exploring+new+technologies!;Passionate+about+coding!;Let's+code+together!"
       alt="Typing SVG"
     />
-  </a>
 </h1>
 
 <h1 align="center">Hi 👋, I'm Aryan Lade</h1>
