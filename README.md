@@ -25,13 +25,9 @@
   />
 </p>
 
-<br>
-
 <!-- Intro (LEFT aligned, headings preserved) -->
 <h1 align="left">Hi 👋, I'm Aryan Lade</h1>
 <h3 align="left">A passionate Software Engineer from Ramdeobaba University, Nagpur</h3>
-
-<br>
 
 <br>
 
