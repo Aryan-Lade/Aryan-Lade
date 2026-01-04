@@ -1,3 +1,11 @@
+<!-- Profile views (left, clean) -->
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=aryan-lade&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
+</p>
+
 <!-- Typing SVG (TOP – unchanged) -->
 <h1 align="center">
   <img
@@ -13,7 +21,7 @@
   <img
     src="https://raw.githubusercontent.com/Aryan-Lade/Aryan-Lade/main/Githubzzz.gif"
     alt="Coding"
-    width="420"
+    width="550"
   />
 </p>
 
@@ -24,14 +32,6 @@
 <h3 align="left">A passionate Software Engineer from Ramdeobaba University, Nagpur</h3>
 
 <br>
-
-<!-- Profile views (left, clean) -->
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=aryan-lade&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
-</p>
 
 <br>
 
