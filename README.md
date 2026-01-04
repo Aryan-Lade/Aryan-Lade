@@ -92,7 +92,6 @@
   <td><strong>Design Tools</strong></td>
   <td>
    <img height="40" src="https://skillicons.dev/icons?i=figma&theme=dark" />
-   <img height="40" src="https://www.stickpng.com/assets/images/62cc1c7f150d5de9a3dad5ee.png" />
   </td>
 </tr>
 
