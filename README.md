@@ -20,7 +20,9 @@
   />
 </p>
 
-<h1 align="left">Hi 👋, I'm Aryan Lade</h1>
+<!-- ⬇️ CHANGE STARTS HERE -->
+
+<h2 align="left">Hi 👋, I'm Aryan Lade</h2>
 <h3 align="left">A passionate Software Engineer from Ramdeobaba University, Nagpur</h3>
 
 <ul align="left">
@@ -29,7 +31,6 @@
   <li>📝 I regularly write articles on <strong>https://www.linkedin.com/in/aryan-lade</strong></li>
   <li>📫 How to reach me <strong>aryanlade55@gmail.com</strong></li>
 </ul>
-
 
 
 <!---------------------------------------------->
