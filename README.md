@@ -19,19 +19,27 @@
 
 <!---------------------------------------------->
 
-### Connect with me
+<h3 align="left">Connect with me</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aryan%20Lade-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aryan-lade)
-[![Instagram](https://img.shields.io/badge/Instagram-its__official.aryan-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/its_official.aryan)
+<p align="left">
+  <a href="https://www.linkedin.com/in/aryan-lade"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="36"></a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/its_official.aryan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="36"></a>
+</p>
 
-<br/>
-
-[![LeetCode](https://img.shields.io/badge/LeetCode-Aryan_Lade-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/Aryan_Lade/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-aryan__lade-1F8ACB?style=for-the-badge&logo=codeforces)](https://codeforces.com/profile/aryan_lade)
-[![CodeChef](https://img.shields.io/badge/CodeChef-aryan__code__24-5B4638?style=for-the-badge&logo=codechef)](https://www.codechef.com/users/aryan_code_24)
-[![HackerRank](https://img.shields.io/badge/HackerRank-aryan__cd24-2EC866?style=for-the-badge&logo=hackerrank)](https://www.hackerrank.com/aryan_cd24)
-[![HackerEarth](https://img.shields.io/badge/HackerEarth-aryan__cd24-323754?style=for-the-badge&logo=hackerearth)](https://www.hackerearth.com/aryan_cd24)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-aryanlu8ez-2F8D46?style=for-the-badge&logo=geeksforgeeks)](https://auth.geeksforgeeks.org/user/aryanlu8ez/)
+<p align="left">
+  <a href="https://leetcode.com/u/Aryan_Lade/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="32"></a>
+  &nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/aryan_lade"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="32"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/aryan_code_24"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="32"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/aryan_cd24"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="32"></a>
+  &nbsp;&nbsp;
+  <a href="https://www.hackerearth.com/aryan_cd24"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="32"></a>
+  &nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/aryanlu8ez/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="32"></a>
+</p>
 
 
 
