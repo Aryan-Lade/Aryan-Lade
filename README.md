@@ -24,27 +24,6 @@
 
 <!---------------------------------------------->
 
-<h3 align="left">Connect with me</h3>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/aryan-lade"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="36"></a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/its_official.aryan"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="36"></a>
-</p>
-
-<p align="left">
-  <a href="https://leetcode.com/u/Aryan_Lade/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="32"></a>
-  &nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/aryan_lade"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="32"></a>
-  &nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/aryan_code_24"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="32"></a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/aryan_cd24"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="32"></a>
-  &nbsp;&nbsp;
-  <a href="https://www.hackerearth.com/aryan_cd24"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="32"></a>
-  &nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/aryanlu8ez/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="32"></a>
-</p>
 
 
 
@@ -106,12 +85,40 @@
 
 <!---------------------------------------------------------------------------------------------------------->
 
+<!-- Social Links -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/aryan-lade">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="36" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/its_official.aryan">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="36" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/Aryan_Lade/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="32" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/aryan_lade">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="32" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.codechef.com/users/aryan_code_24">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="32" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerrank.com/aryan_cd24">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="32" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.hackerearth.com/aryan_cd24">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="32" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://auth.geeksforgeeks.org/user/aryanlu8ez/">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="32" />
+  </a>
+</p>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/Aryan_Lade"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Aryan_Lade" /></a></p><br><br>
+<h3 align="center">🤝 Connect with me</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryan-lade&show_icons=true&locale=en&layout=compact" alt="aryan-lade" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryan-lade&show_icons=true&locale=en" alt="aryan-lade" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryan-lade&" alt="aryan-lade" /></p>
