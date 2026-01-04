@@ -1,3 +1,4 @@
+<!-- Typing SVG (TOP – unchanged) -->
 <h1 align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&letterSpacing=0&duration=4200&pause=500&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aryan;Welcome+to+my+GitHub+profile!;Exploring+new+technologies!;Passionate+about+coding!;Let's+code+together!"
@@ -5,21 +6,44 @@
   />
 </h1>
 
+<br>
 
-<h1 align="center">Hi 👋, I'm Aryan Lade</h1>
-<h3 align="center">A passionate Software Engineer from Ramdeobaba University Nagpur</h3>
+<!-- GIF (Centered, just below typing SVG) -->
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Aryan-Lade/Aryan-Lade/main/Githubzzz.gif"
+    alt="Coding"
+    width="420"
+  />
+</p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Aryan-Lade/Aryan-Lade/main/Githubzzz.gif">
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryan-lade&label=Profile%20views&color=0e75b6&style=flat" alt="aryan-lade" /> </p>
+<!-- Intro (LEFT aligned, headings preserved) -->
+<h1 align="left">Hi 👋, I'm Aryan Lade</h1>
+<h3 align="left">A passionate Software Engineer from Ramdeobaba University, Nagpur</h3>
 
-- 🌱 I’m currently learning **C language,HTML,CSS & Javascript.**
+<br>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Aryan-Lade](https://github.com/Aryan-Lade)
+<!-- Profile views (left, clean) -->
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=aryan-lade&label=Profile%20views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
+</p>
 
-- 📝 I regularly write articles on [www.linkedin.com/in/aryan-lade)
+<br>
 
-- 📫 How to reach me **aryanlade55@gmail.com**
+<!-- About section (left aligned, structured) -->
+<ul align="left">
+  <li>🌱 I’m currently learning <strong>C, HTML, CSS & JavaScript</strong></li>
+  <li>👨‍💻 All of my projects are available at <strong>https://github.com/Aryan-Lade</strong></li>
+  <li>📝 I regularly write articles on <strong>https://www.linkedin.com/in/aryan-lade</strong></li>
+  <li>📫 How to reach me <strong>aryanlade55@gmail.com</strong></li>
+</ul>
+
+
 
 <!---------------------------------------------->
 
