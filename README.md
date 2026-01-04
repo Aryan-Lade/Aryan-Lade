@@ -84,17 +84,19 @@
 
 <!---------------------------------------------------------------------------------------------------------->
 
-<h2>📊 My Stats :</h2>
+## 📊 My Stats :
+<br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aryan-Lade&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=Aryan-Lade&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Lade&theme=tokyo-night&hide_border=true"/>
-</p>
+<div align="center">
+  <!-- GitHub Readme Streak Stats -->
+  <p>
+    <img
+      title="🔥 GitHub Streak Stats"
+      alt="Aryan Lade's GitHub streak"
+      src="https://github-readme-streak-stats-eight.vercel.app/?user=Aryan-Lade&theme=dark&hide_border=true&short_numbers=true"
+    />
+  </p>
+</div>>
 
 
 <!---------------------------------------------------------------------------------------------------------->
