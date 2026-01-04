@@ -1,8 +1,13 @@
-<h1 align="center">Hi 👋, I'm Aryan Lade</h1>
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=20&duration=3000&pause=1000&color=FF4500&center=true&vCenter=true&width=600&lines=WELCOME+TO+MY+GITHUB!_;CODING+IS+MAGIC!+.+.+.">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&letterSpacing=0&duration=4200&pause=500&width=435&lines=Hi%2C+I'm+Aryan;Welcome+to+my+GitHub+profile!;Exploring+new+technologies!;Passionate+about+coding!;Let's+code+together!"
+      alt="Typing SVG"
+    />
+  </a>
 </h1>
 
+<h1 align="center">Hi 👋, I'm Aryan Lade</h1>
 <h3 align="center">A passionate Software Engineer from Ramdeobaba University Nagpur</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Aryan-Lade/Aryan-Lade/main/Githubzzz.gif">
