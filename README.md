@@ -92,7 +92,7 @@
   <td><strong>Design Tools</strong></td>
   <td>
    <img height="40" src="https://skillicons.dev/icons?i=figma&theme=dark" />
-   <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/2/20/Canva_Logo.svg" />
+   <img height="40" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
   </td>
 </tr>
 
