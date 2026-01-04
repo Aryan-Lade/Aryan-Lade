@@ -17,37 +17,92 @@
 
 - 📫 How to reach me **aryanlade55@gmail.com**
 
-<!-- Connect -->
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<!-- Social Platforms -->
-<a href="https://www.linkedin.com/in/aryan-lade" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-</a>
-<a href="https://instagram.com/its_official.aryan" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
-<br/><br/>
-<!-- Coding Platforms -->
-<a href="https://leetcode.com/u/Aryan_Lade/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-</a>
-<a href="https://codeforces.com/profile/aryan_lade" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
-</a>
-<a href="https://www.codechef.com/users/aryan_code_24" target="_blank">
-  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" />
-</a>
-<a href="https://www.hackerrank.com/aryan_cd24" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-</a>
-<a href="https://www.hackerearth.com/aryan_cd24" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" />
-</a>
-<a href="https://auth.geeksforgeeks.org/user/aryanlu8ez/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
-</a>
+
+<p align="left" style="display:flex; flex-direction:column; gap:28px;">
+
+  <!-- Social -->
+  <span style="display:flex; gap:28px;">
+    <a href="https://www.linkedin.com/in/aryan-lade" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+        height="36"
+        style="transition: transform 0.25s ease, filter 0.25s ease;"
+        onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 6px #0A66C2)'"
+        onmouseout="this.style.transform='scale(1)'; this.style.filter='none'"
+      />
+    </a>
+
+    <a href="https://instagram.com/its_official.aryan" target="_blank">
+      <img
+        src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+        height="36"
+        style="transition: transform 0.25s ease, filter 0.25s ease;"
+        onmouseover="this.style.transform='scale(1.2)'; this.style.filter='drop-shadow(0 0 6px #E1306C)'"
+        onmouseout="this.style.transform='scale(1)'; this.style.filter='none'"
+      />
+    </a>
+  </span>
+
+  <!-- Coding -->
+  <span style="display:flex; gap:24px;">
+    <a href="https://leetcode.com/u/Aryan_Lade/" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+        height="32"
+        style="transition: transform 0.25s ease;"
+        onmouseover="this.style.transform='scale(1.18)'"
+        onmouseout="this.style.transform='scale(1)'"
+      />
+    </a>
+
+    <a href="https://codeforces.com/profile/aryan_lade" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
+        height="32"
+        style="transition: transform 0.25s ease;"
+        onmouseover="this.style.transform='scale(1.18)'"
+        onmouseout="this.style.transform='scale(1)'"
+      />
+    </a>
+
+    <a href="https://www.codechef.com/users/aryan_code_24" target="_blank">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
+        height="32"
+        style="transition: transform 0.25s ease;"
+        onmouseover="this.style.transform='scale(1.18)'"
+        onmouseout="this.style.transform='scale(1)'"
+      />
+    </a>
+
+    <a href="https://www.hackerrank.com/aryan_cd24" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
+        height="32"
+        style="transition: transform 0.25s ease;"
+        onmouseover="this.style.transform='scale(1.18)'"
+        onmouseout="this.style.transform='scale(1)'"
+      />
+    </a>
+
+    <a href="https://www.hackerearth.com/aryan_cd24" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg"
+        height="32"
+        style="transition: transform 0.25s ease;"
+        onmouseover="this.style.transform='scale(1.18)'"
+        onmouseout="this.style.transform='scale(1)'"
+      />
+    </a>
+
+    <a href="https://auth.geeksforgeeks.org/user/aryanlu8ez/" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg"
+        height="32"
+        style="transition: transform 0.25s ease;"
+        onmouseover="this.style.transform='scale(1.18)'"
+        onmouseout="this.style.transform='scale(1)'"
+      />
+    </a>
+  </span>
+
 </p>
+
 
 
 
