@@ -110,8 +110,7 @@
   </p>
 </div>
 
-
-<hr style="border:none; height:0.15px; background:#2f2f2f; opacity:0.5; width:85%; margin:28px auto;">
+<hr style="border:none; height:0.05px; background:#2f2f2f; opacity:0.5; width:50%; margin:28px auto;">
 
 <!---------------------------------------------------------------------------------------------------------->
 
