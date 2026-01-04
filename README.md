@@ -108,10 +108,10 @@
       src="https://github-readme-streak-stats-eight.vercel.app/?user=Aryan-Lade&theme=dark&hide_border=true&short_numbers=true"
     />
   </p>
-</div>>
+</div>
 
 
-<hr style="border: none; height: 1px; background: #2f2f2f; width: 85%; margin: 30px auto;">
+<hr style="border: none; height: 0.4px; background: #2f2f2f; width: 85%; margin: 30px auto;">
 <!---------------------------------------------------------------------------------------------------------->
 
 <!-- Social Links -->
