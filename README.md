@@ -64,10 +64,24 @@
 
 ---
 
+# Contribution Calendar
+
+<p align="center">
+  <img
+    src="https://raw.githubusercontent.com/Aryan-Lade/Aryan-Lade/main/profile-3d-contrib/profile-night-green.svg"
+    width="100%"
+    alt="3D Contribution Graph"
+  />
+</p>
+
 # 📈 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Lade&theme=tokyo-night&hide_border=true"/>
+  <img
+    src="https://raw.githubusercontent.com/Aryan-Lade/Aryan-Lade/main/profile-3d-contrib/profile-night-green.svg"
+    alt="3D Contribution Graph"
+    width="100%"
+  />
 </p>
 
 ---
