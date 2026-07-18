@@ -24,9 +24,60 @@
 
 # 🛠️ Languages & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,react,nodejs,spring,django,mongodb,mysql,git,github,linux,aws,figma&perline=9" />
-</p>
+<h2 align="center">🛠️ Languages, Tools & Technologies</h2>
+
+<table align="center">
+
+<tr>
+  <td><strong>💻 Programming Languages</strong></td>
+  <td>
+    <img height="40" src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,php&theme=dark">
+  </td>
+</tr>
+
+<tr>
+  <td><strong>🌐 Frontend Development</strong></td>
+  <td>
+    <img height="40" src="https://skillicons.dev/icons?i=html,css,react,bootstrap,tailwind&theme=dark">
+  </td>
+</tr>
+
+<tr>
+  <td><strong>⚙️ Backend & Frameworks</strong></td>
+  <td>
+    <img height="40" src="https://skillicons.dev/icons?i=nodejs,express,spring,django,flask&theme=dark">
+  </td>
+</tr>
+
+<tr>
+  <td><strong>🗄️ Databases</strong></td>
+  <td>
+    <img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql,firebase&theme=dark">
+  </td>
+</tr>
+
+<tr>
+  <td><strong>☁️ Cloud & DevOps</strong></td>
+  <td>
+    <img height="40" src="https://skillicons.dev/icons?i=aws,docker,git,github,linux&theme=dark">
+  </td>
+</tr>
+
+<tr>
+  <td><strong>🛠️ Development Tools</strong></td>
+  <td>
+    <img height="40" src="https://skillicons.dev/icons?i=vscode,idea,postman,figma&theme=dark">
+  </td>
+</tr>
+
+<tr>
+  <td><strong>📚 Currently Learning</strong></td>
+  <td>
+    <img height="40" src="https://skillicons.dev/icons?i=react,spring,aws,docker&theme=dark">
+  </td>
+</tr>
+
+</table>
 
 ---
 
