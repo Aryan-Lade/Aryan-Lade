@@ -19,13 +19,15 @@
 
 ---
 
-# 👋 About Me
+```markdown
+# 👨‍💻 About Me
 
-- 🎓 **B.Tech CSE Student** at Ramdeobaba University, Nagpur
-- 💻 Passionate about **Software Development & Open Source**
-- 🌱 Currently learning **React, Spring Boot & AWS**
-- 🚀 Solving **DSA** and building real-world projects
-- 📫 Reach me at **aryanlade55@gmail.com**
+- 🎓 **B.Tech CSE Student** @ **Shri Ramdeobaba University, Nagpur**
+- 💼 Aspiring **Software Engineer** with a passion for **Full Stack Development**
+- 🌱 Currently learning **React, Spring Boot, AWS & AI/ML**
+- 🚀 Active **Open Source Contributor** and **DSA Practitioner**
+- 💡 Love building **scalable, user-centric applications** that solve real-world problems
+- 📫 **Reach me:** **aryanlade55@gmail.com**
 
 ---
 
