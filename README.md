@@ -50,10 +50,11 @@
     src="https://github-readme-stats.vercel.app/api?username=Aryan-Lade&show_icons=true&theme=tokyonight&hide_border=true"
   />
 
-  <img
+<img
     width="49%"
     src="https://github-readme-streak-stats-eight.vercel.app/?user=Aryan-Lade&theme=tokyonight&hide_border=true"
   />
+
 </p>
 
 <p align="center">
@@ -69,7 +70,8 @@
 
 <p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=Aryan-Lade&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7"
+    src="https://github-profile-trophy.vercel.app/?username=Aryan-Lade&theme=tokyonight&no-frame=true&row=1&column=7"
+    alt="GitHub Trophies"
   />
 </p>
 
