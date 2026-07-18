@@ -46,25 +46,10 @@
 
 <p align="center">
   <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=Aryan-Lade&show_icons=true&theme=tokyonight&hide_border=true"
-  />
-
-<img
-    width="49%"
-    src="https://github-readme-streak-stats-eight.vercel.app/?user=Aryan-Lade&theme=tokyonight&hide_border=true"
-  />
-
-</p>
-
-<p align="center">
-  <img
-    width="60%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Lade&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-readme-stats-fast.vercel.app/api?username=Aryan-Lade&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+    alt="Aryan Lade's GitHub Stats"
   />
 </p>
-
----
 
 # 🏆 GitHub Trophies
 
