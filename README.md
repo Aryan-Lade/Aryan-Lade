@@ -74,14 +74,10 @@
   />
 </p>
 
-# 📈 Contribution Graph
+# Contribution Graph
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Aryan-Lade/Aryan-Lade/main/profile-3d-contrib/profile-night-green.svg"
-    alt="3D Contribution Graph"
-    width="100%"
-  />
+  <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D Contribution Graph" />
 </p>
 
 ---
