@@ -1,10 +1,17 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Aryan-Lade&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
+----
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Aryan+Lade;Software+Engineering+Student;Open+Source+Contributor;Full+Stack+Developer;Always+Learning+Something+New+%F0%9F%9A%80" />
-</h1>
+<div align="center">
+
+# Hi 👋, I'm Aryan Lade
+
+### Software Engineer | Full Stack Developer | Open Source Contributor | AI/ML Enthusiast |
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=850&lines=Software+Engineer;Full+Stack+Developer;Open+Source+Contributor;Building+Scalable+Solutions;Passionate+About+AI+%26+Machine+Learning;Open+to+Internship+Opportunities" alt="Typing SVG" />
+
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aryan-Lade/Aryan-Lade/main/Githubzzz.gif" width="550" alt="Coding GIF"/>
