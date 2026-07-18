@@ -51,78 +51,34 @@
   />
 </p>
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=Aryan-Lade&theme=tokyonight&no-frame=true&row=1&column=7"
-    alt="GitHub Trophies"
-  />
-</p>
-
----
-
-# 📈 GitHub Activity Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Lade&theme=tokyo-night&hide_border=true"
-    alt="GitHub Activity Graph"
-  />
-</p>
-
 ---
 
 # 🌐 Connect With Me
 
 <p align="center">
+  <a href="https://www.linkedin.com/in/aryan-lade">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="50" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
 
-<a href="https://www.linkedin.com/in/aryan-lade" target="_blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
-</a>
+  <a href="https://instagram.com/its_official.aryan">
+    <img src="https://skillicons.dev/icons?i=instagram" height="50" alt="Instagram" />
+  </a>
+  &nbsp;&nbsp;
 
-&nbsp;&nbsp;
+  <a href="https://github.com/Aryan-Lade">
+    <img src="https://skillicons.dev/icons?i=github" height="50" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
 
-<a href="https://instagram.com/its_official.aryan" target="_blank">
-<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
-</a>
+  <a href="https://leetcode.com/u/Aryan_Lade/">
+    <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50" alt="LeetCode" />
+  </a>
+  &nbsp;&nbsp;
 
-&nbsp;&nbsp;
-
-<a href="https://leetcode.com/u/Aryan_Lade/" target="_blank">
-<img src="https://cdn.simpleicons.org/leetcode" height="45"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://codeforces.com/profile/aryan_lade" target="_blank">
-<img src="https://cdn.simpleicons.org/codeforces" height="45"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.codechef.com/users/aryan_code_24" target="_blank">
-<img src="https://cdn.simpleicons.org/codechef" height="45"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.hackerrank.com/aryan_cd24" target="_blank">
-<img src="https://cdn.simpleicons.org/hackerrank" height="45"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://www.hackerearth.com/aryan_cd24" target="_blank">
-<img src="https://cdn.simpleicons.org/hackerearth" height="45"/>
-</a>
-
-&nbsp;&nbsp;
-
-<a href="https://auth.geeksforgeeks.org/user/aryanlu8ez/" target="_blank">
-<img src="https://cdn.simpleicons.org/geeksforgeeks" height="45"/>
-</a>
-
+  <a href="https://codeforces.com/profile/aryan_lade">
+    <img src="https://cdn.simpleicons.org/codeforces/1F8ACB" height="50" alt="Codeforces" />
+  </a>
 </p>
 
 ---
