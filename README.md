@@ -1,153 +1,119 @@
 <p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=aryan-lade&label=Profile%20views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
+  <img src="https://komarev.com/ghpvc/?username=Aryan-Lade&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
 </p>
 
 <h1 align="center">
-  <img
-    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&letterSpacing=0&duration=4200&pause=500&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Aryan;Welcome+to+my+GitHub+profile!;Exploring+new+technologies!;Passionate+about+coding!;Let's+code+together!"
-    alt="Typing SVG"
-  />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=25&duration=4000&pause=1000&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Aryan+Lade;Software+Engineering+Student;Open+Source+Contributor;Full+Stack+Developer;Always+Learning+Something+New+%F0%9F%9A%80" />
 </h1>
 
 <p align="center">
-  <img
-    src="https://raw.githubusercontent.com/Aryan-Lade/Aryan-Lade/main/Githubzzz.gif"
-    alt="Coding"
-    width="550"
-  />
+  <img src="https://raw.githubusercontent.com/Aryan-Lade/Aryan-Lade/main/Githubzzz.gif" width="550"/>
 </p>
 
-<!-- ⬇️ CHANGE STARTS HERE -->
+---
 
-<h2 align="left">Hi 👋, I'm Aryan Lade</h2>
-<h3 align="left">A passionate Software Engineer from Ramdeobaba University, Nagpur</h3>
+# 👋 About Me
 
-<ul align="left">
-  <li>🌱 I’m currently learning <strong>C, HTML, CSS & JavaScript</strong></li>
-  <li>👨‍💻 All of my projects are available at <strong>https://github.com/Aryan-Lade</strong></li>
-  <li>📝 I regularly write articles on <strong>https://www.linkedin.com/in/aryan-lade</strong></li>
-  <li>📫 How to reach me <strong>aryanlade55@gmail.com</strong></li>
-</ul>
+- 🎓 B.Tech CSE Student at **Ramdeobaba University, Nagpur**
+- 💻 Passionate about **Software Development & Open Source**
+- 🌱 Currently learning **React, Spring Boot & AWS**
+- 🚀 Solving DSA and building real-world projects
+- 📫 **aryanlade55@gmail.com**
 
+---
 
-<!---------------------------------------------->
+# 🛠️ Languages & Tools
 
-
-
-
-<!---------------------------------------------->
-
-<!-- Languages, Tools & Technologies -->
-<h2>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="38">
-  Languages, Tools & Technologies
-</h2>
-
-<table align="center">
-
-<tr>
-  <td><strong>Programming Languages</strong></td>
-  <td>
-    <img height="40" src="https://skillicons.dev/icons?i=c,cpp,cs,java,python,javascript,php,rust,matlab&theme=dark">
-  </td>
-</tr>
-
-<tr>
-  <td><strong>Frontend Development</strong></td>
-  <td>
-    <img height="40" src="https://skillicons.dev/icons?i=html,css,react,bootstrap&theme=dark">
-  </td>
-</tr>
-
-<tr>
-  <td><strong>Backend & Frameworks</strong></td>
-  <td>
-    <img height="40" src="https://skillicons.dev/icons?i=django,flask,spring,nodejs&theme=dark">
-  </td>
-</tr>
-
-<tr>
-  <td><strong>Databases</strong></td>
-  <td>
-    <img height="40" src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark">
-  </td>
-</tr>
-
-<tr>
-  <td><strong>Cloud & DevOps</strong></td>
-  <td>
-    <img height="40" src="https://skillicons.dev/icons?i=aws,git,linux&theme=dark">
-  </td>
-</tr>
-
-<tr>
-  <td><strong>Design Tools</strong></td>
-  <td>
-   <img height="40" src="https://skillicons.dev/icons?i=figma&theme=dark" />
-  </td>
-</tr>
-
-</table>
-
-<br>
-
-<!---------------------------------------------------------------------------------------------------------->
-
-## 📊 My Stats :
-<br>
-
-<div align="center">
-  <!-- GitHub Readme Streak Stats -->
-  <p>
-    <img
-      title="🔥 GitHub Streak Stats"
-      alt="Aryan Lade's GitHub streak"
-      src="https://github-readme-streak-stats-eight.vercel.app/?user=Aryan-Lade&theme=dark&hide_border=true&short_numbers=true"
-    />
-  </p>
-</div>
-
-<hr style="border:none; height:0.05px; background:#2f2f2f; opacity:0.5; width:50%; margin:28px auto;">
-
-<!---------------------------------------------------------------------------------------------------------->
-
-<!-- Social Links -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/aryan-lade">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="36" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://instagram.com/its_official.aryan">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="36" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/Aryan_Lade/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="32" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/aryan_lade">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" height="32" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.codechef.com/users/aryan_code_24">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="32" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerrank.com/aryan_cd24">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="32" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://www.hackerearth.com/aryan_cd24">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" height="32" />
-  </a>
-  &nbsp;&nbsp;&nbsp;
-  <a href="https://auth.geeksforgeeks.org/user/aryanlu8ez/">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" height="32" />
-  </a>
+<img src="https://skillicons.dev/icons?i=c,cpp,java,python,html,css,javascript,react,nodejs,spring,django,mongodb,mysql,git,github,linux,aws,figma&perline=9"/>
 </p>
 
-<h3 align="center">🤝 Connect with me</h3>
+---
 
+# 🌃 3D Contribution Graph
+
+<p align="center">
+<img src="./profile-3d-contrib/profile-night-view.svg" width="100%">
+</p>
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Aryan-Lade&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://github-readme-streak-stats-eight.vercel.app/?user=Aryan-Lade&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aryan-Lade&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Aryan-Lade&theme=tokyonight&no-frame=true&margin-w=10&row=1&column=7"/>
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Aryan-Lade&theme=tokyo-night&hide_border=true"/>
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/aryan-lade">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45"/>
+</a>
+
+<a href="https://instagram.com/its_official.aryan">
+<img src="https://skillicons.dev/icons?i=instagram" height="45"/>
+</a>
+
+<a href="https://leetcode.com/u/Aryan_Lade/">
+<img src="https://cdn.simpleicons.org/leetcode" height="45"/>
+</a>
+
+<a href="https://codeforces.com/profile/aryan_lade">
+<img src="https://cdn.simpleicons.org/codeforces" height="45"/>
+</a>
+
+<a href="https://www.codechef.com/users/aryan_code_24">
+<img src="https://cdn.simpleicons.org/codechef" height="45"/>
+</a>
+
+<a href="https://www.hackerrank.com/aryan_cd24">
+<img src="https://cdn.simpleicons.org/hackerrank" height="45"/>
+</a>
+
+<a href="https://www.hackerearth.com/aryan_cd24">
+<img src="https://cdn.simpleicons.org/hackerearth" height="45"/>
+</a>
+
+<a href="https://auth.geeksforgeeks.org/user/aryanlu8ez/">
+<img src="https://cdn.simpleicons.org/geeksforgeeks" height="45"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! ⭐
+
+</p>
