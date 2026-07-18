@@ -46,7 +46,7 @@
 
 <p align="center">
   <img
-    width="900"
+    width="500"
     src="https://github-readme-stats-fast.vercel.app/api?username=Aryan-Lade&show_icons=true&bg_color=1a1b27&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=30363d&hide_border=true&rank_icon=github"
   />
 </p>
