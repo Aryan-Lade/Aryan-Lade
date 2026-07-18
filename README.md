@@ -19,7 +19,6 @@
 
 ---
 
-```markdown
 # 👨‍💻 About Me
 
 - 🎓 **B.Tech CSE Student** @ **Shri Ramdeobaba University, Nagpur**
