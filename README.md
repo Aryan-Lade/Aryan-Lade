@@ -1,7 +1,6 @@
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=Aryan-Lade&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-----
 
 <div align="center">
 
@@ -17,7 +16,7 @@
   <img src="https://raw.githubusercontent.com/Aryan-Lade/Aryan-Lade/main/Githubzzz.gif" width="550" alt="Coding GIF"/>
 </p>
 
----
+
 
 # 👨‍💻 About Me
 
