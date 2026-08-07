@@ -71,13 +71,6 @@
 </tr>
 
 <tr>
-  <td><strong>🛠️ Development Tools</strong></td>
-  <td>
-    <img height="40" src="https://skillicons.dev/icons?i=vscode,idea,postman,figma&theme=dark">
-  </td>
-</tr>
-
-<tr>
   <td><strong>📚 Currently Learning</strong></td>
   <td>
     <img height="40" src="https://skillicons.dev/icons?i=react,spring,aws,docker&theme=dark">
